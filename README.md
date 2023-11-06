@@ -7,3 +7,11 @@
 - https://en.wikipedia.org/wiki/Fractal
 
 - https://fractalfoundation.org/resources/what-are-fractals/
+
+- https://www.geeksforgeeks.org/fractals-in-computer-graphics/
+
+- https://www.treehugger.com/amazing-fractals-found-in-nature-4868776
+
+- https://letstalkscience.ca/educational-resources/backgrounders/what-a-fractal
+
+- https://mathworld.wolfram.com/Fractals.html
